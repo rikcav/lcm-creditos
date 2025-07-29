@@ -18,3 +18,14 @@
   text-decoration: none;
   font-weight: bold;
 }
+
+.header .logo-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo-image {
+  height: 50px;
+  width: auto;
+}
