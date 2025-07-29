@@ -7,7 +7,7 @@ export const Hero = () => {
       <h2>Soluções financeiras com rapidez e segurança</h2>
       <p>Atendimento humanizado e condições que cabem no seu bolso.</p>
       <a
-        href="https://wa.me/5587999999999"
+        href="https://wa.me/558796389947"
         target="_blank"
         rel="noopener"
         className="btn-contato"
