@@ -1,0 +1,16 @@
+.service-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 2rem;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.service-card h3 {
+  color: #7d0018;
+}
+
+.service-card p {
+  margin-top: 0.5rem;
+}
